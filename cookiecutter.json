@@ -6,5 +6,6 @@
     "control": "github.com",
     "repository": "https://{{cookiecutter.control}}/{{cookiecutter.user}}/{{cookiecutter.name}}",
     "title": "Repo title",
-    "description": "Repo description"
+    "description": "Repo description",
+    "version": "1.0.0"
 }
