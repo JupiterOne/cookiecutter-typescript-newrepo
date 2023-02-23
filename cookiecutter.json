@@ -4,5 +4,7 @@
     "author": "anonymous",
     "license": "LGPL-3.0",
     "control": "github.com",
-    "repository": "https://{{cookiecutter.control}}/{{cookiecutter.user}}/{{cookiecutter.name}}"
+    "repository": "https://{{cookiecutter.control}}/{{cookiecutter.user}}/{{cookiecutter.name}}",
+    "title": "Repo title",
+    "description": "Repo description"
 }
