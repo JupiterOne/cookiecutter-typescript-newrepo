@@ -2,5 +2,5 @@ openapi: 3.0.1
 info:
   title: {{cookiecutter.title}}
   description: {{cookiecutter.description}}
-  x-cortex-tag: {{cookiecutter[@cortex_inputs].service_details.tag}}
+  x-cortex-tag: {{cookiecutter.\@cortex_inputs.service_details.tag}}
   x-cortex-type: service
